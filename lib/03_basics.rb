@@ -12,8 +12,7 @@ def who_is_bigger(a, b, c)
                 return "b is bigger"
 
             else 
-                return "c is bigger"    
-            end
+                return "c is bigger" 
     end
 end
 
